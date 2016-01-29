@@ -13,4 +13,5 @@ P.S. I wish Git just had a simple `forget` command!
 ##References:
 
 - [Stop tracking and ignore changes to a file in Git](http://stackoverflow.com/questions/936249/stop-tracking-and-ignore-changes-to-a-file-in-git)
+- [How to Tell Git to Treat a File as Unmodified](0180-how-to-tell-git-to-treat-a-file-as-unmodified.md)
 
